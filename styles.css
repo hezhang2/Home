@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(50,50,50);
+    font-family: "Open Sans", sans-serif;
+}
+
+a{
+    color: #4461B4; 
+    text-decoration: none;
+}
+a:hover{color:#271A67;}
+a:visited{color:#271A67;}
+
+.box{
+    display:inline-block;
+    vertical-align:top;
+    margin: 10px;
+}
+
+li{ 
+    padding-left: 16px; 
+    list-style: circle;
+}
+h1{margin:5px;}
+h3{margin: 2px;}
+footer {
+    font-style: italic;
+    font-size: 90%;
+}
+
